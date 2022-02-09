@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "CMSE419_Quiz6_17300186"
